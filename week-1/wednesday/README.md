@@ -1,5 +1,7 @@
 # Morning Session: Coding
 
+presentation: https://www.canva.com/design/DAD1StTAzAA/K59m7XK8sCWBUMW_FVG3hw/view?utm_content=DAD1StTAzAA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+
 ## GitHub
 - What is it?
 - What do i use it for?
