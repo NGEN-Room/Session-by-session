@@ -11,3 +11,10 @@ Recorded lectures: https://www.youtube.com/playlist?list=PLppyXbERcv1ayhquju736H
 * Wednesday: [Coding + Game Dev](week-1/wednesday)
 * Thursday: [Game Dev + SoftSkills + UX](week-1/thursday)
 * Friday: [Graphic Design + Animation](week-1/friday)
+
+## Week Two
+* Monday: [Digital Marketing + Coding](week-2/monday)
+* Tuesday: [Digital Marketing + Coding](week-2/tuesday)
+* Wednesday: [Coding + Game Dev](week-2/wednesday)
+* Thursday: [Game Dev + SoftSkills + UX](week-2/thursday)
+* Friday: [Graphic Design + Animation](week-2/friday)
