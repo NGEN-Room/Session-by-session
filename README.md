@@ -26,3 +26,13 @@ Main links
 
 * Github Tasks 1: [Your First Blog](https://github.com/NGEN-Room/Your-First-Blog)
 * Github Tasks 2: [HTML & CSS Tempate](https://github.com/NGEN-Room/HTML-CSS-Template)
+
+
+## Session-Four: HTM: + CSS
+Main Topics: HTML + CSS Basics, Blog Foundations, Student Journal Tech blogs
+
+Main links
+* Canva Slides: [Starting your Blog](https://www.canva.com/design/DAD16PUe4q4/RCYdiwjV9l8n7jBH8gQ2sQ/view?utm_content=DAD16PUe4q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 
+
+* Github Tasks 1: [HTML & CSS](https://github.com/NGEN-Room/HTML-and-CSS)
+* Github Tasks 2: [Student Journal](https://github.com/NGEN-Room/Student-Journal)
